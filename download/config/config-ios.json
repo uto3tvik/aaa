@@ -1,0 +1,71 @@
+{
+	"Config": {
+		"ShowDebug": false,
+		"GameName": "",
+		"svrState": true,
+		"nGameMode": 1,
+		"nPlatID": 0,
+		"baseGold": 0,
+		"ServerURL": ["http://106.14.65.80:13000", "http://8.138.12.46:13000"],
+		"UpdateDir": "download/zip",
+		"UpdateApkName": "download/apk/source.apk",
+		"Logon": ["106.14.65.80:7799", "8.138.12.46:7799"],
+		"defaultip": ["106.14.65.80", "8.138.12.46"],
+		"kfurl": "",
+		"IMServerURL": "http://8.138.12.46/index/index/home?business_id=1&groupid=0",
+		"bCheckE": false,
+		"CurVer": "3.4.2",
+		"MinVer": "1.0.0",
+		"ZipVer": "3.4.2",
+		"gameVerList": [
+			{
+				"gameID": 2,
+				"gamePrefix": "FishFast",
+				"gameVer": "3.3.2"
+			},
+			{
+				"gameID": 1,
+				"gamePrefix": "FishLK",
+				"gameVer": "3.5.4"
+			},
+			{
+				"gameID": 16,
+				"gamePrefix": "FourCows",
+				"gameVer": "3.0.1"
+			},
+			{
+				"gameID": 7,
+				"gamePrefix": "Fqzs",
+				"gameVer": "3.2.1"
+			},
+			{
+				"gameID": 28,
+				"gamePrefix": "FruitSlot",
+				"gameVer": "3.3.2"
+			},
+			{
+				"gameID": 9,
+				"gamePrefix": "WaterMargin",
+				"gameVer": "3.0.2"
+			}
+		],
+		"ShowGameList": [1, 2, 7, 16, 28, 29, 30],
+		"GuideGames": [1],
+		"DownPages": "https://www.game6628.com,https://www1.game6628.com,https://www2.game6628.com,https://www3.game6628.com",
+		"DefaultDraw": 2,
+		"ChargeCfg": [32],
+		"AliAccCfg": [177, 166, 188, 198, 199],
+		"YKCanRelief": false,
+		"DrawCD": 60,
+		"review": false,
+		"bSendCD": true,
+		"bCZInSaf": false,
+		"SCidTypeScript": "local shield_cid={};return shield_cid;",
+		"ShowPromoter": true,
+		"PromoterUrl": "https://www.baidu.com/channel.html",
+		"QRCodeUrl": "index.html?cid=",
+		"ShowSubCid": true,
+		"ActivityUrl": "https://www.baidu.com/api/getActInfo",
+		"ActivityTipsUrl": "https://www.baidu.com/api/getWindowInfo"
+	}
+}
