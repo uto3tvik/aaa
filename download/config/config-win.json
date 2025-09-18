@@ -14,9 +14,9 @@
 		"kfurl": "",
 		"IMServerURL": "http://8.138.12.46/index/index/home?business_id=1&groupid=0",
 		"bCheckE": false,
-		"CurVer": "3.4.2",
+		"CurVer": "3.4.5",
 		"MinVer": "1.0.0",
-		"ZipVer": "3.4.2",
+		"ZipVer": "3.4.5",
 		"gameVerList": [
 			{
 				"gameID": 2,
