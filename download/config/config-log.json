@@ -2,7 +2,7 @@
 	"Config": {
 		"ShowDebug": false,
 		"GameName": "",
-		"svrState": true,
+		"svrState": false,
 		"nGameMode": 1,
 		"nPlatID": 0,
 		"baseGold": 0,
