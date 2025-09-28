@@ -15,8 +15,8 @@
 		"IMServerURL": "http://%s/index/index/home?business_id=1&groupid=0",
 		"bCheckE": false,
 		"PackMinVer": "1.0.0",
-		"CurVer": "3.5.1",
-		"ZipVer": "3.5.1",
+		"CurVer": "3.5.2",
+		"ZipVer": "3.5.2",
 		"MinVer": "1.0.0",
 		"gameVerList": [
 			{
