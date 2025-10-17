@@ -16,39 +16,196 @@
 		"IMServerURL2": "http://%s/index/index/home?business_id=1&groupid=0",
 		"bCheckE": false,
 		"PackMinVer": "1.0.0",
-		"CurVer": "3.5.1",
-		"ZipVer": "3.5.1",
+		"CurVer": "3.6.2",
+		"ZipVer": "3.6.2",
 		"MinVer": "1.0.0",
 		"gameVerList": [
 			{
 				"gameID": 2,
 				"gamePrefix": "FishFast",
-				"gameVer": "3.3.3"
+				"gameVer": "3.3.3",
+				"GameName": "快速捕鱼",
+				"QuickEnter": false,
+				"ShowTable": false,
+				"GameRooms": [
+					{
+						"roomID": 1,
+						"CheckCharge": false,
+						"GoldMinCondition": 20000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 1000,
+						"BaseConditionMax": 10000,
+						"StepCondition": 1000
+					},
+					{
+						"roomID": 2,
+						"CheckCharge": true,
+						"GoldMinCondition": 3000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 10000,
+						"BaseConditionMax": 50000,
+						"StepCondition": 10000
+					},
+					{
+						"roomID": 3,
+						"CheckCharge": true,
+						"GoldMinCondition": 3000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 50000,
+						"BaseConditionMax": 100000,
+						"StepCondition": 10000
+					},
+					{
+						"roomID": 4,
+						"CheckCharge": true,
+						"GoldMinCondition": 20000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 100000,
+						"BaseConditionMax": 1000000,
+						"StepCondition": 10000
+					}
+				]
 			},
 			{
 				"gameID": 1,
 				"gamePrefix": "FishLK",
-				"gameVer": "3.5.9"
+				"gameVer": "3.7.5",
+				"GameName": "李逵劈鱼",
+				"QuickEnter": false,
+				"ShowTable": true,
+				"TableCnt": 40,
+				"GameRooms": [
+					{
+						"roomID": 1,
+						"CheckCharge": false,
+						"GoldMinCondition": 20000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 1000,
+						"BaseConditionMax": 10000,
+						"StepCondition": 1000
+					},
+					{
+						"roomID": 2,
+						"CheckCharge": true,
+						"GoldMinCondition": 3000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 10000,
+						"BaseConditionMax": 50000,
+						"StepCondition": 10000
+					},
+					{
+						"roomID": 3,
+						"CheckCharge": true,
+						"GoldMinCondition": 3000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 50000,
+						"BaseConditionMax": 100000,
+						"StepCondition": 10000
+					}
+				]
 			},
 			{
 				"gameID": 16,
 				"gamePrefix": "FourCows",
-				"gameVer": "3.0.1"
+				"gameVer": "3.0.1",
+				"GameName": "四人牛牛",
+				"QuickEnter": false,
+				"ShowTable": false,
+				"GameRooms": [
+					{
+						"roomID": 1,
+						"CheckCharge": true,
+						"GoldMinCondition": 3000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 1000,
+						"BaseConditionMax": 0,
+						"StepCondition": 0
+					},
+					{
+						"roomID": 2,
+						"CheckCharge": true,
+						"GoldMinCondition": 3000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 100000,
+						"BaseConditionMax": 0,
+						"StepCondition": 0
+					},
+					{
+						"roomID": 3,
+						"CheckCharge": true,
+						"GoldMinCondition": 3000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 1000000,
+						"BaseConditionMax": 0,
+						"StepCondition": 0
+					},
+					{
+						"roomID": 4,
+						"CheckCharge": true,
+						"GoldMinCondition": 5000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 5000000,
+						"BaseConditionMax": 0,
+						"StepCondition": 0
+					}
+				]
 			},
 			{
 				"gameID": 7,
 				"gamePrefix": "Fqzs",
-				"gameVer": "3.2.1"
+				"gameVer": "3.2.1",
+				"GameName": "飞禽走兽",
+				"QuickEnter": true,
+				"ShowTable": false,
+				"GameRooms": [
+					{
+						"roomID": 1,
+						"CheckCharge": true,
+						"GoldMinCondition": 3000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0,
+						"BaseConditionMax": 0,
+						"StepCondition": 0
+					}
+				]
 			},
 			{
 				"gameID": 28,
 				"gamePrefix": "FruitSlot",
-				"gameVer": "3.3.2"
+				"gameVer": "3.3.3",
+				"GameName": "九线拉霸",
+				"QuickEnter": true,
+				"ShowTable": false,
+				"GameRooms": [
+					{
+						"roomID": 1,
+						"CheckCharge": true,
+						"GoldMinCondition": 3000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0,
+						"BaseConditionMax": 0,
+						"StepCondition": 0
+					}
+				]
 			},
 			{
 				"gameID": 9,
 				"gamePrefix": "WaterMargin",
-				"gameVer": "3.0.2"
+				"gameVer": "3.0.2",
+				"GameName": "水浒传",
+				"QuickEnter": true,
+				"ShowTable": false,
+				"GameRooms": [
+					{
+						"roomID": 1,
+						"CheckCharge": true,
+						"GoldMinCondition": 3000000,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0,
+						"BaseConditionMax": 0,
+						"StepCondition": 0
+					}
+				]
 			}
 		],
 		"ShowGameList": [1, 2, 7, 16, 28, 29, 30],
