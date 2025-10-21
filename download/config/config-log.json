@@ -16,8 +16,8 @@
 		"IMServerURL2": "http://%s/index/index/home?business_id=1&groupid=0",
 		"bCheckE": false,
 		"PackMinVer": "1.0.0",
-		"CurVer": "3.6.2",
-		"ZipVer": "3.6.2",
+		"CurVer": "3.6.3",
+		"ZipVer": "3.6.3",
 		"MinVer": "1.0.0",
 		"gameVerList": [
 			{
@@ -31,7 +31,7 @@
 					{
 						"roomID": 1,
 						"CheckCharge": false,
-						"GoldMinCondition": 20000,
+						"GoldMinCondition": 0,
 						"GoldMaxCondition": 0,
 						"BaseCondition": 1000,
 						"BaseConditionMax": 10000,
@@ -40,7 +40,7 @@
 					{
 						"roomID": 2,
 						"CheckCharge": true,
-						"GoldMinCondition": 3000000,
+						"GoldMinCondition": 1000000,
 						"GoldMaxCondition": 0,
 						"BaseCondition": 10000,
 						"BaseConditionMax": 50000,
@@ -69,7 +69,7 @@
 			{
 				"gameID": 1,
 				"gamePrefix": "FishLK",
-				"gameVer": "3.7.5",
+				"gameVer": "3.7.8",
 				"GameName": "李逵劈鱼",
 				"QuickEnter": false,
 				"ShowTable": true,
@@ -78,7 +78,7 @@
 					{
 						"roomID": 1,
 						"CheckCharge": false,
-						"GoldMinCondition": 20000,
+						"GoldMinCondition": 0,
 						"GoldMaxCondition": 0,
 						"BaseCondition": 1000,
 						"BaseConditionMax": 10000,
@@ -87,7 +87,7 @@
 					{
 						"roomID": 2,
 						"CheckCharge": true,
-						"GoldMinCondition": 3000000,
+						"GoldMinCondition": 1000000,
 						"GoldMaxCondition": 0,
 						"BaseCondition": 10000,
 						"BaseConditionMax": 50000,
@@ -115,7 +115,7 @@
 					{
 						"roomID": 1,
 						"CheckCharge": true,
-						"GoldMinCondition": 3000000,
+						"GoldMinCondition": 500000,
 						"GoldMaxCondition": 0,
 						"BaseCondition": 1000,
 						"BaseConditionMax": 0,
@@ -124,7 +124,7 @@
 					{
 						"roomID": 2,
 						"CheckCharge": true,
-						"GoldMinCondition": 3000000,
+						"GoldMinCondition": 2000000,
 						"GoldMaxCondition": 0,
 						"BaseCondition": 100000,
 						"BaseConditionMax": 0,
