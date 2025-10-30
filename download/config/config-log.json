@@ -6,6 +6,7 @@
 		"nGameMode": 1,
 		"nPlatID": 0,
 		"baseGold": 0,
+		"minTransGold": 100000,
 		"ServerURL": ["http://106.14.65.80:13000", "http://8.138.252.251:13000"],
 		"UpdateDir": "download/zip",
 		"UpdateApkName": "download/apk/source.apk",
@@ -16,8 +17,8 @@
 		"IMServerURL2": "http://%s/index/index/home?business_id=1&groupid=0",
 		"bCheckE": false,
 		"PackMinVer": "1.0.0",
-		"CurVer": "3.7.1",
-		"ZipVer": "3.7.1",
+		"CurVer": "3.7.6",
+		"ZipVer": "3.7.6",
 		"MinVer": "1.0.0",
 		"gameVerList": [
 			{
