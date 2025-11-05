@@ -1,6 +1,7 @@
 {
 	"Config": {
 		"ShowDebug": false,
+		"RankType": true,
 		"GameName": "",
 		"svrState": true,
 		"nGameMode": 1,
@@ -18,15 +19,15 @@
 		"ZSAccount": "fk_6628",
 		"bCheckE": false,
 		"PackMinVer": "1.0.0",
-		"CurVer": "3.7.6",
-		"ZipVer": "3.7.6",
+		"CurVer": "3.8.6",
+		"ZipVer": "3.8.6",
 		"MinVer": "1.0.0",
 		"ShowGameList": [1, 2, 7, 16, 28, 29, 30],
 		"gameVerList": [
 			{
 				"gameID": 2,
 				"gamePrefix": "FishFast",
-				"gameVer": "3.3.3",
+				"gameVer": "3.3.5",
 				"GameName": "快速捕鱼",
 				"QuickEnter": false,
 				"ShowTable": false,
@@ -73,7 +74,7 @@
 			{
 				"gameID": 1,
 				"gamePrefix": "FishLK",
-				"gameVer": "3.8.4",
+				"gameVer": "3.8.9",
 				"GameName": "李逵劈鱼",
 				"QuickEnter": false,
 				"ShowTable": true,
