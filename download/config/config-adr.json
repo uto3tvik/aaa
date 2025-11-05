@@ -12,14 +12,16 @@
 		"UpdateApkName": "download/apk/source.apk",
 		"Logon": ["106.14.65.80:7799", "8.138.252.251:7799"],
 		"defaultip": ["106.14.65.80", "8.138.252.251"],
-		"IMServer": "http://103.140.238.20",
-		"IMServerURL": "http://103.140.238.20/index/index/home?business_id=1&groupid=0",
+		"IMServer": "https://chat.9xingyun.com",
+		"IMServerURL": "https://chat.9xingyun.com/index/index/home?business_id=1&groupid=0",
 		"IMServerURL2": "http://%s/index/index/home?business_id=1&groupid=0",
+		"ZSAccount": "fk_6628",
 		"bCheckE": false,
 		"PackMinVer": "1.0.0",
 		"CurVer": "3.7.6",
 		"ZipVer": "3.7.6",
 		"MinVer": "1.0.0",
+		"ShowGameList": [1, 2, 7, 16, 28, 29, 30],
 		"gameVerList": [
 			{
 				"gameID": 2,
@@ -28,6 +30,7 @@
 				"GameName": "快速捕鱼",
 				"QuickEnter": false,
 				"ShowTable": false,
+				"IsSmallGame": false,
 				"GameRooms": [
 					{
 						"roomID": 1,
@@ -75,6 +78,7 @@
 				"QuickEnter": false,
 				"ShowTable": true,
 				"TableCnt": 40,
+				"IsSmallGame": false,
 				"GameRooms": [
 					{
 						"roomID": 1,
@@ -112,6 +116,7 @@
 				"GameName": "四人牛牛",
 				"QuickEnter": false,
 				"ShowTable": false,
+				"IsSmallGame": false,
 				"GameRooms": [
 					{
 						"roomID": 1,
@@ -158,6 +163,7 @@
 				"GameName": "飞禽走兽",
 				"QuickEnter": true,
 				"ShowTable": false,
+				"IsSmallGame": false,
 				"GameRooms": [
 					{
 						"roomID": 1,
@@ -177,6 +183,7 @@
 				"GameName": "九线拉霸",
 				"QuickEnter": true,
 				"ShowTable": false,
+				"IsSmallGame": false,
 				"GameRooms": [
 					{
 						"roomID": 1,
@@ -196,6 +203,7 @@
 				"GameName": "水浒传",
 				"QuickEnter": true,
 				"ShowTable": false,
+				"IsSmallGame": false,
 				"GameRooms": [
 					{
 						"roomID": 1,
@@ -209,7 +217,6 @@
 				]
 			}
 		],
-		"ShowGameList": [1, 2, 7, 16, 28, 29, 30],
 		"GuideGames": [1],
 		"DownPages": "https://www.game6628.com,https://www1.game6628.com,https://www2.game6628.com,https://www3.game6628.com",
 		"DefaultDraw": 2,
