@@ -1,7 +1,7 @@
 {
 	"Config": {
 		"ShowDebug": false,
-		"RankType": true,
+		"RankType": false,
 		"GameName": "",
 		"svrState": true,
 		"nGameMode": 1,
