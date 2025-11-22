@@ -20,8 +20,8 @@
 		"ZSAccount": "fk_6628",
 		"bCheckE": false,
 		"PackMinVer": "1.0.0",
-		"CurVer": "3.9.1",
-		"ZipVer": "3.9.1",
+		"CurVer": "3.9.21",
+		"ZipVer": "3.9.21",
 		"MinVer": "1.0.0",
 		"ShowGameList": [1, 2, 7, 16, 28, 29, 30],
 		"gameVerList": [
@@ -75,7 +75,7 @@
 			{
 				"gameID": 1,
 				"gamePrefix": "FishLK",
-				"gameVer": "3.9.32",
+				"gameVer": "3.9.33",
 				"GameName": "李逵劈鱼",
 				"QuickEnter": false,
 				"ShowTable": true,
@@ -87,7 +87,7 @@
 						"CheckCharge": false,
 						"GoldMinCondition": 0,
 						"GoldMaxCondition": 0,
-						"BaseCondition": 1000,
+						"BaseCondition": 5000,
 						"BaseConditionMax": 10000,
 						"StepCondition": 1000
 					},
