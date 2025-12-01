@@ -20,8 +20,8 @@
 		"ZSAccount": "fk_6628",
 		"bCheckE": false,
 		"PackMinVer": "1.0.0",
-		"CurVer": "3.9.259",
-		"ZipVer": "3.9.259",
+		"CurVer": "3.9.262",
+		"ZipVer": "3.9.262",
 		"MinVer": "1.0.0",
 		"ShowGameList": [1, 7, 16, 29, 30, 10006, 10007, 2, 10001, 28, 10002, 10003, 10004, 10005],
 		"gameVerList": [
@@ -124,7 +124,7 @@
 						"roomID": 1,
 						"CheckCharge": true,
 						"GoldMinCondition": 500000,
-						"GoldMaxCondition": 0,
+						"GoldMaxCondition": 10000000,
 						"BaseCondition": 1000,
 						"BaseConditionMax": 0,
 						"StepCondition": 0
@@ -133,7 +133,7 @@
 						"roomID": 2,
 						"CheckCharge": true,
 						"GoldMinCondition": 2000000,
-						"GoldMaxCondition": 0,
+						"GoldMaxCondition": 50000000,
 						"BaseCondition": 100000,
 						"BaseConditionMax": 0,
 						"StepCondition": 0
@@ -221,7 +221,7 @@
 			{
 				"gameID": 10000,
 				"gamePrefix": "PG",
-				"gameVer": "3.0.34",
+				"gameVer": "3.0.36",
 				"GameName": "PG",
 				"QuickEnter": true,
 				"ShowTable": false,
