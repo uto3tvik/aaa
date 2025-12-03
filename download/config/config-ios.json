@@ -18,10 +18,11 @@
 		"IMServerURL": "https://chat.9xingyun.com/index/index/home?business_id=1&groupid=0",
 		"IMServerURL2": "http://%s/index/index/home?business_id=1&groupid=0",
 		"ZSAccount": "fk_6628",
+		"ZSAccount2": "hgf5215",
 		"bCheckE": false,
 		"PackMinVer": "1.0.0",
-		"CurVer": "3.9.262",
-		"ZipVer": "3.9.262",
+		"CurVer": "3.9.266",
+		"ZipVer": "3.9.266",
 		"MinVer": "1.0.0",
 		"ShowGameList": [1, 7, 16, 29, 30, 10006, 10007, 2, 10001, 28, 10002, 10003, 10004, 10005],
 		"gameVerList": [
@@ -75,7 +76,7 @@
 			{
 				"gameID": 1,
 				"gamePrefix": "FishLK",
-				"gameVer": "3.9.35",
+				"gameVer": "3.9.37",
 				"GameName": "李逵劈鱼",
 				"QuickEnter": false,
 				"ShowTable": true,
