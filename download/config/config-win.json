@@ -21,10 +21,13 @@
 		"ZSAccount2": "hgf5215",
 		"bCheckE": false,
 		"PackMinVer": "1.0.0",
-		"CurVer": "3.9.268",
-		"ZipVer": "3.9.268",
+		"CurVer": "3.9.270",
+		"ZipVer": "3.9.270",
 		"MinVer": "1.0.0",
-		"ShowGameList": [1, 7, 16, 29, 30, 10006, 10007, 2, 10001, 28, 10002, 10003, 10004, 10005],
+		"ShowGameList": [
+			[1, 7, 16, 29, 30, 10006, 10007],
+			[2, 10001, 10002, 10003, 10004, 10005, 28]
+		],
 		"gameVerList": [
 			{
 				"gameID": 2,
@@ -76,7 +79,7 @@
 			{
 				"gameID": 1,
 				"gamePrefix": "FishLK",
-				"gameVer": "3.9.41",
+				"gameVer": "3.9.46",
 				"GameName": "李逵劈鱼",
 				"QuickEnter": false,
 				"ShowTable": true,
