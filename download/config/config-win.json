@@ -20,23 +20,25 @@
 		"ZSAccount": "fk_6628",
 		"ZSAccount2": "hgf5215",
 		"bCheckE": false,
-		"PackMinVer": "1.0.0",
-		"CurVer": "3.9.270",
-		"ZipVer": "3.9.270",
+		"PackMinVer": "3.2.9",
+		"CurVer": "3.9.273",
+		"ZipVer": "3.9.273",
 		"MinVer": "1.0.0",
 		"ShowGameList": [
-			[1, 7, 16, 29, 30, 10006, 10007],
-			[2, 10001, 10002, 10003, 10004, 10005, 28]
+			[1, 7, 16, 29, 30, 10006, 10007, 10009],
+			[2, 10001, 10002, 10003, 10008, 10005, 10010, 28]
 		],
 		"gameVerList": [
 			{
 				"gameID": 2,
 				"gamePrefix": "FishFast",
-				"gameVer": "3.3.5",
+				"gameVer": "3.3.51",
 				"GameName": "快速捕鱼",
 				"QuickEnter": false,
 				"ShowTable": false,
 				"IsSmallGame": false,
+				"BulletInterval": 222,
+				"BulletEngryInterval": 222,
 				"GameRooms": [
 					{
 						"roomID": 1,
@@ -79,12 +81,14 @@
 			{
 				"gameID": 1,
 				"gamePrefix": "FishLK",
-				"gameVer": "3.9.46",
+				"gameVer": "3.9.48",
 				"GameName": "李逵劈鱼",
 				"QuickEnter": false,
 				"ShowTable": true,
 				"TableCnt": 40,
 				"IsSmallGame": false,
+				"BulletInterval": 222,
+				"BulletEngryInterval": 222,
 				"GameRooms": [
 					{
 						"roomID": 1,
@@ -301,6 +305,39 @@
 						"roomID": 7,
 						"pgGameID": 106,
 						"GameName": "麒麟送宝",
+						"CheckCharge": true,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0,
+						"BaseConditionMax": 0,
+						"StepCondition": 0
+					},
+					{
+						"roomID": 8,
+						"pgGameID": 54,
+						"GameName": "赏金船长",
+						"CheckCharge": true,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0,
+						"BaseConditionMax": 0,
+						"StepCondition": 0
+					},
+					{
+						"roomID": 9,
+						"pgGameID": 135,
+						"GameName": "赏金大对决",
+						"CheckCharge": true,
+						"GoldMinCondition": 0,
+						"GoldMaxCondition": 0,
+						"BaseCondition": 0,
+						"BaseConditionMax": 0,
+						"StepCondition": 0
+					},
+					{
+						"roomID": 10,
+						"pgGameID": 1671262,
+						"GameName": "宝石矿工",
 						"CheckCharge": true,
 						"GoldMinCondition": 0,
 						"GoldMaxCondition": 0,
