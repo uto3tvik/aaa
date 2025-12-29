@@ -21,8 +21,8 @@
 		"ZSAccount2": "hgf5215",
 		"bCheckE": false,
 		"PackMinVer": "3.2.9",
-		"CurVer": "3.9.273",
-		"ZipVer": "3.9.273",
+		"CurVer": "3.9.277",
+		"ZipVer": "3.9.277",
 		"MinVer": "1.0.0",
 		"ShowGameList": [
 			[1, 7, 16, 10006, 10007, 10009, 28],
@@ -81,7 +81,7 @@
 			{
 				"gameID": 1,
 				"gamePrefix": "FishLK",
-				"gameVer": "3.9.48",
+				"gameVer": "3.9.49",
 				"GameName": "李逵劈鱼",
 				"QuickEnter": false,
 				"ShowTable": true,
@@ -229,7 +229,7 @@
 			{
 				"gameID": 10000,
 				"gamePrefix": "PG",
-				"gameVer": "3.0.36",
+				"gameVer": "3.0.37",
 				"GameName": "PG",
 				"QuickEnter": true,
 				"ShowTable": false,
